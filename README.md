@@ -59,11 +59,3 @@ quantity: any number > 0
 141.25 (the running production cost)
 ```
 
-
-
-
-
-## Document Updated
-
- * v1.0.0
-  - Initial Release - Gabriel Novoa Bonet (30/05/2015)
